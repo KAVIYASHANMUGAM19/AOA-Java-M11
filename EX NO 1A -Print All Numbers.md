@@ -18,7 +18,7 @@ To Write a Java program that takes an integer input N from the user and prints a
 ```
 /*
 Developed by: KAVIYA S
-Register Number:  212222040090
+Register Number:  212223040090
 */
 
 import java.util.*;
