@@ -8,7 +8,7 @@ The value of |x| is defined as:
 
 x if x >= 0.
 -x if x < 0.
-
+ 
 ## Algorithm
 1. Start  
 2. Read the integer `n` (size of the array) and then read `n` integers into the array `nums`.  
