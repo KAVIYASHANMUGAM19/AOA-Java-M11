@@ -17,7 +17,7 @@ An integer n is a power of two, if there exists an integer x such that n == 2x.
 ```
 /*
 
-Developed by:KAVIYA S
+Developed by: KAVIYA S
 Register Number: 212223040090
 */
 
